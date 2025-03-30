@@ -10,17 +10,16 @@
 
 ### Education  
 **Russian Plekhanov University of Economics**  
-- *Diploma in Information Security of Automated Systems*  
+ *Diploma in Information Security of Automated Systems*  
 
 **Yandex Lyceum**  
-- *Programming in Go | 2024*  
-- *Web Development in Go*  
+ *Programming in Go | 2024* 
+ *Web Development in Go*  
 
 ---
-
 ### Work Experience  
 **3DKIDS** – Private Network of Kindergartens  
-*Go Developer (Intern)* (2025)  
+*Go Developer (Intern)* (2024)  
 - Developed a Telegram bot in Go to streamline client communication.  
 - Built an admin panel for managing notifications and chatbot settings.  
 
@@ -33,9 +32,11 @@
 - C# (academic practice)  
 - Python (academic practice)  
 - C++ (academic practice)  
+
 #### Databases  
 - **PostgreSQL** (primary)  
 - MySQL (academic practice)  
+
 #### Tools & Utilities  
 - Docker  
 - Git  
@@ -46,13 +47,13 @@
 - Wireshark  
 - Nmap  
 - Jira  
+
 #### Technologies & Protocols  
 - RESTful API  
 - gRPC, gRPC Gateway  
 - Basic knowledge of network protocols (academic practice)  
 
 ---
-
 ### Soft Skills  
 - Problem Solving  
 - Systems Thinking  
@@ -60,7 +61,6 @@
 - Non-confrontational  
 
 ---
-
 ### Contacts  
 📫 **Email**: [andrewgo1133official@gmail.com](mailto:andrewgo1133official@gmail.com)  
 🐦 **Telegram**: [@weezord](https://t.me/weezord)  
