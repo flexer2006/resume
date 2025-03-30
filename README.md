@@ -15,8 +15,7 @@
 
 **Yandex Lyceum**
 
-2. *Programming in Go | 2024* 
-
+2. *Programming in Go | 2024*
 3. *Web Development in Go*  
 
 ---
