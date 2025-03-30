@@ -1,13 +1,14 @@
 # Go developer
 
 ### About me
+🎓 Two years ago I started learning Go, it's my main language.
 
 ### Education
 
 ### Work Experience
 
-### Soft skills
+### Hard Skills
 
-### Targets
+### Soft skills
 
 ### Contacts
