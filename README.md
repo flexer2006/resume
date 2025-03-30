@@ -9,13 +9,15 @@
 ---
 
 ### Education  
-**Russian Plekhanov University of Economics**  
-*Diploma in Information Security of Automated Systems*  
+**Russian Plekhanov University of Economics**
 
-**Yandex Lyceum**  
-*Programming in Go | 2024* 
+- *Diploma in Information Security of Automated Systems*  
 
-*Web Development in Go*  
+**Yandex Lyceum**
+
+- *Programming in Go | 2024* 
+
+- *Web Development in Go*  
 
 ---
 
