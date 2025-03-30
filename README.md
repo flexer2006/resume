@@ -22,8 +22,8 @@
 ### Work Experience  
 **3DKIDS** – Private Network of Kindergartens  
 *Go Developer (Intern)* (2024)  
-- Developed a Telegram bot in Go to streamline client communication.  
-- Built an admin panel for managing notifications and chatbot settings.  
+1. Developed a Telegram bot in Go to streamline client communication.  
+2. Built an admin panel for managing notifications and chatbot settings.
 
 ---
 
