@@ -14,9 +14,11 @@
 
 **Yandex Lyceum**  
  - *Programming in Go | 2024* 
+ 
  - *Web Development in Go*  
 
 ---
+
 ### Work Experience  
 **3DKIDS** – Private Network of Kindergartens  
 *Go Developer (Intern)* (2024)  
@@ -54,6 +56,7 @@
 - Basic knowledge of network protocols (academic practice)  
 
 ---
+
 ### Soft Skills  
 - Problem Solving  
 - Systems Thinking  
@@ -61,6 +64,7 @@
 - Non-confrontational  
 
 ---
+
 ### Contacts  
 📫 **Email**: [andrewgo1133official@gmail.com](mailto:andrewgo1133official@gmail.com)  
 🐦 **Telegram**: [@weezord](https://t.me/weezord)  
