@@ -1,13 +1,12 @@
-title: Andrey Pylnev
+title: Andrey Pylnev  
 description: Backend Developer  
 show_downloads: true  
 theme: jekyll-theme-minimal  
 
 author: Andrey Pylnev  
 email: andrewgo1133official@gmail.com  
-github: weezord  
-linkedin: your-linkedin-username  
-twitter: your-twitter-handle  
+github_username: weezord  
+linkedin_username: andrey-pylnev-361507344  
 
 navbar-links:  
   About Me: "#about-me"  
@@ -18,6 +17,8 @@ navbar-links:
   Contacts: "#contacts"  
 
 social_links:  
-  telegram: https://t.me/weezord  
-  github: https://github.com/weezord  
-  website: https://your-portfolio-site.com  
+  Telegram: "https://t.me/weezord"  
+  GitHub: "https://github.com/weezord"  
+  LinkedIn: "https://www.linkedin.com/in/andrey-pylnev-361507344"  
+  Email: "mailto:andrewgo1133official@gmail.com"  
+
