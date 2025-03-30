@@ -1,7 +1,7 @@
 # Go Developer  
 
 ### About Me  
-🎓 Studying Go for two years—it's my primary language.  
+🎓 Studying Go for two years - it's my primary language.  
 🌍 Based in Moscow, Russia.  
 🧑🏻‍💻 Programming since 2022.  
 🚗 Holder of a driver's license.
@@ -14,6 +14,7 @@
 
 **Yandex Lyceum**  
  *Programming in Go | 2024* 
+ 
  *Web Development in Go*  
 
 ---
